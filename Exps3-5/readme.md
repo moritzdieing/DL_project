@@ -1,0 +1,2 @@
+To save the experiments the notebook uses 3 folders named first_exp, exp_cropped, exp_batchops, create these folders before running the notebook or change the destination. 
+The results notebook uses these same folders and also uses the folder default_exp. The default_exp folder has to be created and the results of the baseline experiment have to be put in this folder for the notebook to work. The baseline files should be generated from the code in the Exps1&2 folder.
